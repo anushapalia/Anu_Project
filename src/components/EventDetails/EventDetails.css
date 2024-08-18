@@ -1,0 +1,34 @@
+.event-details {
+  width: 420px;
+  background: transparent;
+  color: #110c0c;
+  border-radius: 30px;
+  padding: 30px 40px;
+  margin: auto;
+  background-image: url('../Asseste/Screenshot\ 2024-08-17\ 211036.png');
+  box-shadow: rgba(0, 0, 0, .2);
+}
+ 
+.event-details h2,
+.event-details h3 {
+  margin-bottom: 20px;
+  border-radius: 30px;
+}
+
+.event-details ul {
+  list-style: none;
+  padding: 0;
+  margin-bottom: 20px;
+  border-radius: 30px;
+}
+
+.event-details ul li {
+  margin-bottom: 10px;
+  border-radius: 30px;
+}
+
+.event-details p {
+  margin-top: 10px;
+  border-radius: 30px;
+}
+
